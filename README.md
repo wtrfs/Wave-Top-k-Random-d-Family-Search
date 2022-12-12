@@ -145,7 +145,7 @@ contained in the POG for the applied quality measure.
     ; [bias.txt must be specified if -b is chosed]
 
  
-# ---  Usefull command lines  --------------------------------------------------
+# ---  Useful command lines  --------------------------------------------------
 
 Needed to configure multi-thread:
 - export OMP_SCHEDULE=dynamic,1
